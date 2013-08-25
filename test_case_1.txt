@@ -1,0 +1,36 @@
+Entity
+$p
+Parag Agrawal:
+0@
+par1!   (1,0)
+par2!	(0,1)
+/$p
+
+$p
+Pranav Agrawal:
+1@
+pra1!	(1,0)
+pra2!	(0,0)
+/$p
+
+$p
+Ayush Agrawal:
+0@
+ayu1!	(1,0)
+ayu2!	(0,1)
+/$p
+/Entity
+
+
+
+
+Relationship
+$p
+Married:
+1@
+Pranav	Agrawal%	(1,1)
+Ayush Agrawal%		(0,0)
+Mar1!
+Mar2!
+/$p
+/Relationship
